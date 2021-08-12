@@ -46,11 +46,11 @@
     "gemini-core": "^6.2.1",
     "inherit": "^2.2.2",
     "lodash": "^4.17.4",
-    "mocha": "~2.4.5",
+    "mocha": "^5.2.0",
     "plugins-loader": "^1.1.0",
     "teamcity-service-messages": "^0.1.6",
     "urijs": "^1.17.0",
-    "webdriverio": "^7.7.3",
+    "webdriverio": "7.7.3",
     "worker-farm": "^1.7.0"
   },
   "devDependencies": {
